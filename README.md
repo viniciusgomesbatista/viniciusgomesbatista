@@ -3,7 +3,7 @@
   - Projetos de Melhoria Contínua utilizando PDCA e Lean Six Sigma;
   - Implantação e suporte metodológico de KPI's, BSC e OKR's;
   - Data Analytics e automações com Python;
-  - Criação de Pipelines de dados com Pentaho Data Integration;
+  - Criação de Pipelines de dados com Pentaho Data Integration e Alteryx;
   - Construção de ferramentas de Business Intelligence utilizando Looker (DataStudio) e Power BI.
 
 
