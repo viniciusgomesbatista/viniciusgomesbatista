@@ -1,6 +1,5 @@
-- Oi, eu sou @viniciusgomesbatista;
+- Oi, eu sou @viniciusgomesbatista , engenheiro de materiais com experiência em Melhoria Contínua, Gestão Estratégica e Data Science & Analytics.
 - Esse é o meu blog técnico: https://medium.com/@viniciusgomesbatista
-- Engenheiro de Materiais com experiência em Melhoria Contínua, Gestão Estratégica e Data Science & Analytics.
 
 Habilidades técnicas: 
 - Desenvolvimento de projetos de Melhoria Contínua utilizando PDCA e Lean Six Sigma;
