@@ -1,4 +1,5 @@
 - Oi, eu sou @viniciusgomesbatista;
+- Esse é o meu blog técnico: https://medium.com/@viniciusgomesbatista
 - Engenheiro de Materiais com experiência em: 
   - Projetos de Melhoria Contínua utilizando PDCA e Lean Six Sigma;
   - Implantação e suporte metodológico de KPI's, BSC e OKR's;
